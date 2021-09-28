@@ -124,6 +124,7 @@ CREATE TABLE asignacioncursosalumnos
 -- -----------------------------------------------------
 CREATE TABLE asignacioncursosmastros
 (
+  idasignacion VARCHAR(5),
   codigo_carrera VARCHAR(5),
   codigo_sede VARCHAR(5),
   codigo_jornada VARCHAR(5),
@@ -131,7 +132,8 @@ CREATE TABLE asignacioncursosmastros
   codigo_aula VARCHAR(5),
   codigo_curso VARCHAR(5),
   codigo_maestro VARCHAR(5),
-  PRIMARY KEY (codigo_carrera, codigo_sede, codigo_jornada, codigo_seccion, codigo_aula, codigo_curso),
+  estatus_maestro VARCHAR(1),
+  PRIMARY KEY (idasignacion, codigo_carrera, codigo_sede, codigo_jornada, codigo_seccion, codigo_aula, codigo_curso),
   FOREIGN KEY (codigo_carrera) REFERENCES carreras(codigo_carrera),
   FOREIGN KEY (codigo_sede) REFERENCES sedes(codigo_sede),
   FOREIGN KEY (codigo_jornada) REFERENCES jornadas(codigo_jornada),
@@ -141,3 +143,4 @@ CREATE TABLE asignacioncursosmastros
   FOREIGN KEY (codigo_maestro) REFERENCES maestros(codigo_maestro)
   ) ENGINE = InnoDB DEFAULT CHARSET=latin1;
 
+drop table asignacioncursosmastros;
