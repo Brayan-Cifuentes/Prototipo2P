@@ -11,3 +11,10 @@ D:\Proyectos_Git_Analisis\SegundoParcial\Prototipo2P\obj\Debug\Prototipo2P.pdb
 D:\Proyectos_Git_Analisis\SegundoParcial\Prototipo2P\obj\Debug\Prototipo2P.Cursos.resources
 D:\Proyectos_Git_Analisis\SegundoParcial\Prototipo2P\obj\Debug\Prototipo2P.Maestros.resources
 D:\Proyectos_Git_Analisis\SegundoParcial\Prototipo2P\obj\Debug\Prototipo2P.AsignarCursoMaestro.resources
+D:\Proyectos_Git_Analisis\SegundoParcial\Prototipo2P\bin\Debug\CapaVista.dll
+D:\Proyectos_Git_Analisis\SegundoParcial\Prototipo2P\bin\Debug\CapaControlador.dll
+D:\Proyectos_Git_Analisis\SegundoParcial\Prototipo2P\bin\Debug\CapaModelo.dll
+D:\Proyectos_Git_Analisis\SegundoParcial\Prototipo2P\bin\Debug\CapaVista.pdb
+D:\Proyectos_Git_Analisis\SegundoParcial\Prototipo2P\bin\Debug\CapaControlador.pdb
+D:\Proyectos_Git_Analisis\SegundoParcial\Prototipo2P\bin\Debug\CapaModelo.pdb
+D:\Proyectos_Git_Analisis\SegundoParcial\Prototipo2P\obj\Debug\Prototipo2P.csproj.CopyComplete

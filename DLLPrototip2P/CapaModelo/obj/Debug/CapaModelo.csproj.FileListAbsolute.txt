@@ -1,0 +1,12 @@
+D:\Brayan Cifuentes\source\repos\RepasoDLL\CapaModelo\bin\Debug\CapaModelo.dll
+D:\Brayan Cifuentes\source\repos\RepasoDLL\CapaModelo\bin\Debug\CapaModelo.pdb
+D:\Brayan Cifuentes\source\repos\RepasoDLL\CapaModelo\obj\Debug\CapaModelo.csprojAssemblyReference.cache
+D:\Brayan Cifuentes\source\repos\RepasoDLL\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+D:\Brayan Cifuentes\source\repos\RepasoDLL\CapaModelo\obj\Debug\CapaModelo.dll
+D:\Brayan Cifuentes\source\repos\RepasoDLL\CapaModelo\obj\Debug\CapaModelo.pdb
+D:\Proyectos_Git_Analisis\SegundoParcial\DLLPrototip2P\CapaModelo\bin\Debug\CapaModelo.dll
+D:\Proyectos_Git_Analisis\SegundoParcial\DLLPrototip2P\CapaModelo\bin\Debug\CapaModelo.pdb
+D:\Proyectos_Git_Analisis\SegundoParcial\DLLPrototip2P\CapaModelo\obj\Debug\CapaModelo.csprojAssemblyReference.cache
+D:\Proyectos_Git_Analisis\SegundoParcial\DLLPrototip2P\CapaModelo\obj\Debug\CapaModelo.csproj.CoreCompileInputs.cache
+D:\Proyectos_Git_Analisis\SegundoParcial\DLLPrototip2P\CapaModelo\obj\Debug\CapaModelo.dll
+D:\Proyectos_Git_Analisis\SegundoParcial\DLLPrototip2P\CapaModelo\obj\Debug\CapaModelo.pdb

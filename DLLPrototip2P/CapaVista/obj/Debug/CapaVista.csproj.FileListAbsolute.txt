@@ -1,0 +1,28 @@
+D:\Brayan Cifuentes\source\repos\RepasoDLL\CapaVista\bin\Debug\CapaVista.dll
+D:\Brayan Cifuentes\source\repos\RepasoDLL\CapaVista\bin\Debug\CapaVista.pdb
+D:\Brayan Cifuentes\source\repos\RepasoDLL\CapaVista\obj\Debug\CapaVista.csprojAssemblyReference.cache
+D:\Brayan Cifuentes\source\repos\RepasoDLL\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+D:\Brayan Cifuentes\source\repos\RepasoDLL\CapaVista\obj\Debug\CapaVista.dll
+D:\Brayan Cifuentes\source\repos\RepasoDLL\CapaVista\obj\Debug\CapaVista.pdb
+D:\Brayan Cifuentes\source\repos\RepasoDLL\CapaVista\bin\Debug\CapaControlador.dll
+D:\Brayan Cifuentes\source\repos\RepasoDLL\CapaVista\bin\Debug\CapaControlador.pdb
+D:\Brayan Cifuentes\source\repos\RepasoDLL\CapaVista\obj\Debug\CapaVista.csproj.CopyComplete
+D:\Brayan Cifuentes\source\repos\RepasoDLL\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+D:\Brayan Cifuentes\source\repos\RepasoDLL\CapaVista\obj\Debug\CapaVista.BarraNav.resources
+D:\Brayan Cifuentes\source\repos\RepasoDLL\CapaVista\obj\Debug\CapaVista.Properties.Resources.resources
+D:\Brayan Cifuentes\source\repos\RepasoDLL\CapaVista\bin\Debug\CapaModelo.dll
+D:\Brayan Cifuentes\source\repos\RepasoDLL\CapaVista\bin\Debug\CapaModelo.pdb
+D:\Proyectos_Git_Analisis\SegundoParcial\DLLPrototip2P\CapaVista\bin\Debug\CapaVista.dll
+D:\Proyectos_Git_Analisis\SegundoParcial\DLLPrototip2P\CapaVista\bin\Debug\CapaVista.pdb
+D:\Proyectos_Git_Analisis\SegundoParcial\DLLPrototip2P\CapaVista\bin\Debug\CapaControlador.dll
+D:\Proyectos_Git_Analisis\SegundoParcial\DLLPrototip2P\CapaVista\bin\Debug\CapaModelo.dll
+D:\Proyectos_Git_Analisis\SegundoParcial\DLLPrototip2P\CapaVista\bin\Debug\CapaControlador.pdb
+D:\Proyectos_Git_Analisis\SegundoParcial\DLLPrototip2P\CapaVista\bin\Debug\CapaModelo.pdb
+D:\Proyectos_Git_Analisis\SegundoParcial\DLLPrototip2P\CapaVista\obj\Debug\CapaVista.csprojAssemblyReference.cache
+D:\Proyectos_Git_Analisis\SegundoParcial\DLLPrototip2P\CapaVista\obj\Debug\CapaVista.BarraNav.resources
+D:\Proyectos_Git_Analisis\SegundoParcial\DLLPrototip2P\CapaVista\obj\Debug\CapaVista.Properties.Resources.resources
+D:\Proyectos_Git_Analisis\SegundoParcial\DLLPrototip2P\CapaVista\obj\Debug\CapaVista.csproj.GenerateResource.cache
+D:\Proyectos_Git_Analisis\SegundoParcial\DLLPrototip2P\CapaVista\obj\Debug\CapaVista.csproj.CoreCompileInputs.cache
+D:\Proyectos_Git_Analisis\SegundoParcial\DLLPrototip2P\CapaVista\obj\Debug\CapaVista.csproj.CopyComplete
+D:\Proyectos_Git_Analisis\SegundoParcial\DLLPrototip2P\CapaVista\obj\Debug\CapaVista.dll
+D:\Proyectos_Git_Analisis\SegundoParcial\DLLPrototip2P\CapaVista\obj\Debug\CapaVista.pdb

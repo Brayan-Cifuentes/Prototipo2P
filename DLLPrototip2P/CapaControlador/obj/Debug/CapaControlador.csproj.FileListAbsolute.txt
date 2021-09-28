@@ -1,0 +1,18 @@
+D:\Brayan Cifuentes\source\repos\RepasoDLL\CapaControlador\bin\Debug\CapaControlador.dll
+D:\Brayan Cifuentes\source\repos\RepasoDLL\CapaControlador\bin\Debug\CapaControlador.pdb
+D:\Brayan Cifuentes\source\repos\RepasoDLL\CapaControlador\obj\Debug\CapaControlador.csprojAssemblyReference.cache
+D:\Brayan Cifuentes\source\repos\RepasoDLL\CapaControlador\obj\Debug\CapaControlador.csproj.CoreCompileInputs.cache
+D:\Brayan Cifuentes\source\repos\RepasoDLL\CapaControlador\obj\Debug\CapaControlador.dll
+D:\Brayan Cifuentes\source\repos\RepasoDLL\CapaControlador\obj\Debug\CapaControlador.pdb
+D:\Brayan Cifuentes\source\repos\RepasoDLL\CapaControlador\bin\Debug\CapaModelo.dll
+D:\Brayan Cifuentes\source\repos\RepasoDLL\CapaControlador\bin\Debug\CapaModelo.pdb
+D:\Brayan Cifuentes\source\repos\RepasoDLL\CapaControlador\obj\Debug\CapaControlador.csproj.CopyComplete
+D:\Proyectos_Git_Analisis\SegundoParcial\DLLPrototip2P\CapaControlador\bin\Debug\CapaControlador.dll
+D:\Proyectos_Git_Analisis\SegundoParcial\DLLPrototip2P\CapaControlador\bin\Debug\CapaControlador.pdb
+D:\Proyectos_Git_Analisis\SegundoParcial\DLLPrototip2P\CapaControlador\bin\Debug\CapaModelo.dll
+D:\Proyectos_Git_Analisis\SegundoParcial\DLLPrototip2P\CapaControlador\bin\Debug\CapaModelo.pdb
+D:\Proyectos_Git_Analisis\SegundoParcial\DLLPrototip2P\CapaControlador\obj\Debug\CapaControlador.csprojAssemblyReference.cache
+D:\Proyectos_Git_Analisis\SegundoParcial\DLLPrototip2P\CapaControlador\obj\Debug\CapaControlador.csproj.CoreCompileInputs.cache
+D:\Proyectos_Git_Analisis\SegundoParcial\DLLPrototip2P\CapaControlador\obj\Debug\CapaControlador.csproj.CopyComplete
+D:\Proyectos_Git_Analisis\SegundoParcial\DLLPrototip2P\CapaControlador\obj\Debug\CapaControlador.dll
+D:\Proyectos_Git_Analisis\SegundoParcial\DLLPrototip2P\CapaControlador\obj\Debug\CapaControlador.pdb
